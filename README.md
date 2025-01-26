@@ -15,7 +15,7 @@ The **Change Maker API** is a Flask-based application designed to calculate spar
 ## 🧑‍💻 How to Use
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/change-maker.git
+git clone https://github.com/SqushyWushy/change-maker.git
 cd change-maker
 
 2. Install Dependencies
@@ -70,13 +70,13 @@ This project was built to:
 	•	Explore financial calculations like spare change and interest projection.
 
 🔗 Links
-	•	Flask Documentation
-	•	Postman
-	•	GitHub
+- [Flask Documentation](https://flask.palletsprojects.com/)
+- [Postman](https://www.postman.com/)
+- [GitHub](https://github.com/SqushyWushy/change-maker)
 
 📩 Contact
 
-Created by Your Name.
+Created by Hector Gonzalez.
 Feel free to reach out for collaboration or questions!
 
 🛠 Future Improvements
