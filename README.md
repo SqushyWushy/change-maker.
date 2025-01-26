@@ -1,5 +1,3 @@
-Here’s a polished and complete README.md file for your project. You can simply copy-paste this into your README file in PyCharm:
-
 # Change Maker API 🪙
 
 ## 🚀 About
